@@ -24,12 +24,17 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro",
+      "output": "static",
+      "build": {
+        "baseUrl": ""
+      }
     },
     "extra": {
       "supabaseUrl": "https://wiotxgvfenvpezbeuwcs.supabase.co",
       "supabaseKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Indpb3R4Z3ZmZW52cGV6YmV1d2NzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDk2ODcwNzMsImV4cCI6MjA2NTI2MzA3M30.RQauana4J4ooIwlF2d-OH3Cxw31p83P91G6YxXK4_oc",
-      "apiUrl": "http://localhost:3000"
+      "apiUrl": "https://wiotxgvfenvpezbeuwcs.supabase.co/rest/v1"
     }
   }
 }
