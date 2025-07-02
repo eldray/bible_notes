@@ -1,0 +1,340 @@
+[
+  {
+    "id": "1",
+    "name": "Salvation",
+    "description": "God's plan to redeem humanity through Jesus Christ.",
+    "verses": [
+      {
+        "verseId": "JOHN.3.16",
+        "reference": "John 3:16",
+        "text": "For God so loved the world...",
+        "version": "KJV"
+      },
+      {
+        "verseId": "EPH.2.8",
+        "reference": "Ephesians 2:8",
+        "text": "For by grace are ye saved...",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Faith",
+    "description": "Trusting in God and His promises.",
+    "verses": [
+      {
+        "verseId": "HEB.11.1",
+        "reference": "Hebrews 11:1",
+        "text": "Now faith is the substance...",
+        "version": "KJV"
+      },
+      {
+        "verseId": "ROM.1.17",
+        "reference": "Romans 1:17",
+        "text": "The just shall live by faith.",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Temptation",
+    "description": "Overcoming sin and resisting the devil.",
+    "verses": [
+      {
+        "verseId": "JAS.1.14",
+        "reference": "James 1:14",
+        "text": "But every man is tempted, when he is drawn away of his own lust, and enticed.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "1COR.10.13",
+        "reference": "1 Corinthians 10:13",
+        "text": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "MAT.26.41",
+        "reference": "Matthew 26:41",
+        "text": "Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Trials",
+    "description": "Enduring hardships with faith and patience.",
+    "verses": [
+      {
+        "verseId": "JAS.1.2",
+        "reference": "James 1:2",
+        "text": "My brethren, count it all joy when ye fall into divers temptations;",
+        "version": "KJV"
+      },
+      {
+        "verseId": "1PET.1.7",
+        "reference": "1 Peter 1:7",
+        "text": "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:",
+        "version": "KJV"
+      },
+      {
+        "verseId": "ROM.5.3",
+        "reference": "Romans 5:3",
+        "text": "And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Perseverance",
+    "description": "Continuing steadfastly in faith despite challenges.",
+    "verses": [
+      {
+        "verseId": "HEB.12.1",
+        "reference": "Hebrews 12:1",
+        "text": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,",
+        "version": "KJV"
+      },
+      {
+        "verseId": "GAL.6.9",
+        "reference": "Galatians 6:9",
+        "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "PHI.3.14",
+        "reference": "Philippians 3:14",
+        "text": "I press toward the mark for the prize of the high calling of God in Christ Jesus.",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Contentment",
+    "description": "Finding satisfaction in God regardless of circumstances.",
+    "verses": [
+      {
+        "verseId": "PHI.4.11",
+        "reference": "Philippians 4:11",
+        "text": "Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "1TIM.6.6",
+        "reference": "1 Timothy 6:6",
+        "text": "But godliness with contentment is great gain.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "HEB.13.5",
+        "reference": "Hebrews 13:5",
+        "text": "Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Thankfulness",
+    "description": "Expressing gratitude to God in all things.",
+    "verses": [
+      {
+        "verseId": "1THES.5.18",
+        "reference": "1 Thessalonians 5:18",
+        "text": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "COL.3.15",
+        "reference": "Colossians 3:15",
+        "text": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "PSA.100.4",
+        "reference": "Psalm 100:4",
+        "text": "Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Worship",
+    "description": "Honoring and adoring God in spirit and truth.",
+    "verses": [
+      {
+        "verseId": "JOH.4.24",
+        "reference": "John 4:24",
+        "text": "God is a Spirit: and they that worship him must worship him in spirit and in truth.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "PSA.95.6",
+        "reference": "Psalm 95:6",
+        "text": "O come, let us worship and bow down: let us kneel before the LORD our maker.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "REV.4.11",
+        "reference": "Revelation 4:11",
+        "text": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Praise",
+    "description": "Exalting God for who He is and what He has done.",
+    "verses": [
+      {
+        "verseId": "PSA.150.6",
+        "reference": "Psalm 150:6",
+        "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "HEB.13.15",
+        "reference": "Hebrews 13:15",
+        "text": "By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "PSA.34.1",
+        "reference": "Psalm 34:1",
+        "text": "I will bless the LORD at all times: his praise shall continually be in my mouth.",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "name": "The Word of God",
+    "description": "The power and importance of Scripture in a believer's life.",
+    "verses": [
+      {
+        "verseId": "2TIM.3.16",
+        "reference": "2 Timothy 3:16",
+        "text": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:",
+        "version": "KJV"
+      },
+      {
+        "verseId": "HEB.4.12",
+        "reference": "Hebrews 4:12",
+        "text": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "PSA.119.105",
+        "reference": "Psalm 119:105",
+        "text": "Thy word is a lamp unto my feet, and a light unto my path.",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "name": "The Second Coming",
+    "description": "The return of Christ and the hope of believers.",
+    "verses": [
+      {
+        "verseId": "ACT.1.11",
+        "reference": "Acts 1:11",
+        "text": "Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "1THES.4.16",
+        "reference": "1 Thessalonians 4:16",
+        "text": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:",
+        "version": "KJV"
+      },
+      {
+        "verseId": "REV.22.12",
+        "reference": "Revelation 22:12",
+        "text": "And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be.",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Heaven",
+    "description": "The eternal dwelling place of the redeemed.",
+    "verses": [
+      {
+        "verseId": "JOH.14.2",
+        "reference": "John 14:2",
+        "text": "In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "REV.21.4",
+        "reference": "Revelation 21:4",
+        "text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "2COR.5.1",
+        "reference": "2 Corinthians 5:1",
+        "text": "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Hell",
+    "description": "The eternal punishment for those who reject Christ.",
+    "verses": [
+      {
+        "verseId": "MAT.25.41",
+        "reference": "Matthew 25:41",
+        "text": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:",
+        "version": "KJV"
+      },
+      {
+        "verseId": "REV.20.15",
+        "reference": "Revelation 20:15",
+        "text": "And whosoever was not found written in the book of life was cast into the lake of fire.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "LUK.16.23",
+        "reference": "Luke 16:23",
+        "text": "And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.",
+        "version": "KJV"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "name": "The Great Commission",
+    "description": "Christ's command to spread the Gospel to all nations.",
+    "verses": [
+      {
+        "verseId": "MAT.28.19-20",
+        "reference": "Matthew 28:19-20",
+        "text": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "MAR.16.15",
+        "reference": "Mark 16:15",
+        "text": "And he said unto them, Go ye into all the world, and preach the gospel to every creature.",
+        "version": "KJV"
+      },
+      {
+        "verseId": "ACT.1.8",
+        "reference": "Acts 1:8",
+        "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.",
+        "version": "KJV"
+      }
+    ]
+  }
+]

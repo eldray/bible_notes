@@ -1,0 +1,85 @@
+faithfulnotes/
+├── backend/
+│   ├── node_modules/                           # Node.js dependencies
+│   ├── dist/                                  # Compiled TypeScript output
+│   ├── scripts/                               # Database seeding scripts
+│   │   ├── concordance.json                   # Sample Strong’s Concordance data
+│   │   ├── devotions.json                     # Sample daily devotions data
+│   │   ├── seed.ts                            # Script to seed Supabase tables
+│   │   └── themes.json                        # Sample Bible themes data
+│   ├── src/                                   # Backend source code
+│   │   ├── config/                            # Configuration files
+│   │   │   ├── bibleApi.ts                    # API.Bible client setup
+│   │   │   └── supabase.ts*                   # Supabase client setup
+│   │   ├── controllers/                       # Request handlers
+│   │   │   ├── authController.ts              # Authentication logic
+│   │   │   ├── bibleController.ts             # Bible content logic
+│   │   │   ├── bookmarksController.ts         # Bookmarks logic
+│   │   │   ├── communityController.ts         # Community posts/comments logic
+│   │   │   ├── concordanceController.ts       # Concordance lookup logic
+│   │   │   ├── devotionsController.ts         # Daily devotions logic
+│   │   │   ├── highlightsController.ts        # Highlights logic
+│   │   │   ├── sermonNotesController.ts       # Sermon notes logic
+│   │   │   └── themesController.ts            # Bible themes logic
+│   │   ├── middleware/                        # Express middleware
+│   │   │   ├── authMiddleware.ts              # JWT authentication
+│   │   │   ├── errorMiddleware.ts             # Error handling
+│   │   │   └── validationMiddleware.ts        # Request validation with Zod
+│   │   ├── routes/                            # API routes
+│   │   │   ├── auth.ts                        # Authentication endpoints
+│   │   │   ├── bible.ts                       # Bible content endpoints
+│   │   │   ├── bookmarks.ts                   # Bookmarks endpoints
+│   │   │   ├── community.ts                   # Community endpoints
+│   │   │   ├── concordance.ts                 # Concordance endpoints
+│   │   │   ├── devotions.ts                   # Devotions endpoints
+│   │   │   ├── highlights.ts                  # Highlights endpoints
+│   │   │   ├── sermonNotes.ts                 # Sermon notes endpoints
+│   │   │   └── themes.ts                      # Themes endpoints
+│   │   ├── services/                          # Business logic
+│   │   │   ├── bibleService.ts                # Bible API interactions
+│   │   │   ├── concordanceService.ts          # Concordance data retrieval
+│   │   │   ├── devotionService.ts             # Devotion data retrieval
+│   │   │   └── themesService.ts               # Themes data retrieval
+│   │   ├── utils/                             # Shared utilities
+│   │   │   ├── constants.ts                   # Error classes
+│   │   │   └── types.ts                       # TypeScript interfaces
+│   │   └── server.ts*                         # Express server entry point
+│   ├── .env*                                  # Environment variables
+│   ├── package.json                           # Backend dependencies and scripts
+│   └── tsconfig.json                          # TypeScript configuration
+├── frontend/
+│   ├── node_modules/                          # Node.js dependencies
+│   ├── android/                               # Android native code
+│   ├── ios/                                   # iOS native code
+│   ├── src/                                   # Frontend source code
+│   │   ├── config/                            # Configuration files
+│   │   │   └── supabase.ts                    # Supabase client setup
+│   │   ├── context/                           # React context
+│   │   │   └── AuthContext.tsx                # Authentication context
+│   │   ├── screens/                           # React Native screens
+│   │   │   ├── BibleReadingScreen.tsx         # Bible reading interface
+│   │   │   ├── BibleThemesScreen.tsx          # Bible themes explorer
+│   │   │   ├── BookmarksScreen.tsx            # Bookmarked verses manager
+│   │   │   ├── CommunityScreen.tsx            # Community posts/comments
+│   │   │   ├── ConcordanceScreen.tsx          # Concordance lookup
+│   │   │   ├── DailyDevotionScreen.tsx        # Daily devotion viewer
+│   │   │   ├── HomeScreen.tsx                 # App home dashboard
+│   │   │   ├── HighlightsScreen.tsx           # Highlighted verses manager
+│   │   │   ├── LoadingScreen.tsx              # Loading state UI
+│   │   │   ├── LoginScreen.tsx                # User login form
+│   │   │   ├── ProfileScreen.tsx               # User profile editor
+│   │   │   ├── RegisterScreen.tsx             # User registration form
+│   │   │   └── SermonNotesScreen.tsx          # Sermon notes manager
+│   │   ├── utils/                             # Shared utilities
+│   │   │   ├── api.ts                         # Axios API client
+│   │   │   └── types.ts                       # TypeScript interfaces
+│   │   ├── App.tsx                            # App entry point with navigation
+│   │   └── BibleAPI.ts                        # Bible API client
+│   ├── .env                                   # Environment variables
+│   ├── babel.config.js                           # Babel configuration
+│   ├── metro.config.js                        # Metro bundler configuration
+│   ├── package.json                           # Frontend dependencies and scripts
+│   ├── tsconfig.json                          # TypeScript configuration
+│   └── index.js                                # React Native entry point
+├── README.md                                  # Project documentation
+└── .gitignore                                 # Git ignore rules

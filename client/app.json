@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "RhemaScribes",
+    "slug": "RhemaScribes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "supabaseUrl": "https://wiotxgvfenvpezbeuwcs.supabase.co",
+      "supabaseKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Indpb3R4Z3ZmZW52cGV6YmV1d2NzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDk2ODcwNzMsImV4cCI6MjA2NTI2MzA3M30.RQauana4J4ooIwlF2d-OH3Cxw31p83P91G6YxXK4_oc",
+      "apiUrl": "http://localhost:3000"
+    }
+  }
+}

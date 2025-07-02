@@ -1,0 +1,702 @@
+[
+  {
+    "word": "faith",
+    "originalWord": "πίστις (pistis)",
+    "definition": "faith, belief, trust, confidence; fidelity, faithfulness",
+    "usages": [
+      { "reference": "Hebrews 11:1", "text": "Now faith is confidence in what we hope for and assurance about what we do not see." },
+      { "reference": "Ephesians 2:8", "text": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God." },
+      { "reference": "Romans 1:17", "text": "For in the gospel the righteousness of God is revealed—a righteousness that is by faith from first to last, just as it is written: \"The righteous will live by faith.\"" }
+    ],
+    "relatedWords": [
+      { "word": "believe", "originalWord": "πιστεύω (pisteuō)" },
+      { "word": "faithful", "originalWord": "πιστός (pistos)" }
+    ]
+  },
+  {
+    "word": "love",
+    "originalWord": "ἀγάπη (agapē)",
+    "definition": "love, goodwill, esteem; especially divine love",
+    "usages": [
+      { "reference": "1 Corinthians 13:13", "text": "And now these three remain: faith, hope and love. But the greatest of these is love." },
+      { "reference": "John 3:16", "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life." },
+      { "reference": "1 John 4:8", "text": "Whoever does not love does not know God, because God is love." }
+    ],
+    "relatedWords": [
+      { "word": "charity", "originalWord": "ἀγάπη (agapē)" },
+      { "word": "beloved", "originalWord": "ἀγαπητός (agapētos)" }
+    ]
+  },
+  {
+    "word": "hope",
+    "originalWord": "ἐλπίς (elpis)",
+    "definition": "hope, expectation, confidence",
+    "usages": [
+      { "reference": "Romans 15:13", "text": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit." },
+      { "reference": "1 Peter 3:15", "text": "But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have." },
+      { "reference": "Hebrews 6:19", "text": "We have this hope as an anchor for the soul, firm and secure." }
+    ],
+    "relatedWords": [
+      { "word": "expectation", "originalWord": "ἀποκαραδοκία (apokaradokia)" },
+      { "word": "confident", "originalWord": "πεποιθώς (pepoithōs)" }
+    ]
+  },
+  {
+    "word": "grace",
+    "originalWord": "χάρις (charis)",
+    "definition": "grace, favor, kindness; divine grace, unmerited favor",
+    "usages": [
+      { "reference": "Ephesians 2:8-9", "text": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast." },
+      { "reference": "2 Corinthians 12:9", "text": "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'" },
+      { "reference": "Romans 3:24", "text": "and all are justified freely by his grace through the redemption that came by Christ Jesus." }
+    ],
+    "relatedWords": [
+      { "word": "favor", "originalWord": "χάρις (charis)" },
+      { "word": "gracious", "originalWord": "χαρίεις (charieis)" }
+    ]
+  },
+  {
+    "word": "peace",
+    "originalWord": "εἰρήνη (eirēnē)",
+    "definition": "peace, harmony, tranquility; prosperity, well-being",
+    "usages": [
+      { "reference": "John 14:27", "text": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid." },
+      { "reference": "Philippians 4:7", "text": "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus." },
+      { "reference": "Romans 5:1", "text": "Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ." }
+    ],
+    "relatedWords": [
+      { "word": "peaceful", "originalWord": "εἰρηνικός (eirēnikos)" },
+      { "word": "peacemaker", "originalWord": "εἰρηνοποιός (eirēnopoios)" }
+    ]
+  },
+  {
+    "word": "joy",
+    "originalWord": "χαρά (chara)",
+    "definition": "joy, gladness, delight",
+    "usages": [
+      { "reference": "Galatians 5:22", "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness." },
+      { "reference": "John 15:11", "text": "I have told you this so that my joy may be in you and that your joy may be complete." },
+      { "reference": "1 Peter 1:8", "text": "Though you have not seen him, you love him; and even though you do not see him now, you believe in him and are filled with an inexpressible and glorious joy." }
+    ],
+    "relatedWords": [
+      { "word": "rejoice", "originalWord": "χαίρω (chairō)" },
+      { "word": "joyful", "originalWord": "χαρμόσυνος (charmosynos)" }
+    ]
+  },
+  {
+    "word": "righteousness",
+    "originalWord": "δικαιοσύνη (dikaiosynē)",
+    "definition": "righteousness, justice, uprightness",
+    "usages": [
+      { "reference": "Matthew 5:6", "text": "Blessed are those who hunger and thirst for righteousness, for they will be filled." },
+      { "reference": "Romans 3:22", "text": "This righteousness is given through faith in Jesus Christ to all who believe." },
+      { "reference": "2 Timothy 3:16", "text": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness." }
+    ],
+    "relatedWords": [
+      { "word": "righteous", "originalWord": "δίκαιος (dikaios)" },
+      { "word": "justify", "originalWord": "δικαιόω (dikaioō)" }
+    ]
+  },
+  {
+    "word": "salvation",
+    "originalWord": "σωτηρία (sōtēria)",
+    "definition": "salvation, deliverance, preservation",
+    "usages": [
+      { "reference": "Acts 4:12", "text": "Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved." },
+      { "reference": "Romans 10:9", "text": "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved." },
+      { "reference": "Titus 2:11", "text": "For the grace of God has appeared that offers salvation to all people." }
+    ],
+    "relatedWords": [
+      { "word": "savior", "originalWord": "σωτήρ (sōtēr)" },
+      { "word": "save", "originalWord": "σῴζω (sōzō)" }
+    ]
+  },
+  {
+    "word": "wisdom",
+    "originalWord": "σοφία (sophia)",
+    "definition": "wisdom, insight, intelligence",
+    "usages": [
+      { "reference": "James 1:5", "text": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you." },
+      { "reference": "1 Corinthians 1:24", "text": "but to those whom God has called, both Jews and Greeks, Christ the power of God and the wisdom of God." },
+      { "reference": "Colossians 2:3", "text": "in whom are hidden all the treasures of wisdom and knowledge." }
+    ],
+    "relatedWords": [
+      { "word": "wise", "originalWord": "σοφός (sophos)" },
+      { "word": "understanding", "originalWord": "σύνεσις (synesis)" }
+    ]
+  },
+  {
+    "word": "truth",
+    "originalWord": "ἀλήθεια (alētheia)",
+    "definition": "truth, reality, sincerity",
+    "usages": [
+      { "reference": "John 8:32", "text": "Then you will know the truth, and the truth will set you free." },
+      { "reference": "John 14:6", "text": "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'" },
+      { "reference": "1 John 1:8", "text": "If we claim to be without sin, we deceive ourselves and the truth is not in us." }
+    ],
+    "relatedWords": [
+      { "word": "true", "originalWord": "ἀληθής (alēthēs)" },
+      { "word": "truthful", "originalWord": "ἀληθινός (alēthinos)" }
+    ]
+  },
+  {
+    "word": "mercy",
+    "originalWord": "ἔλεος (eleos)",
+    "definition": "mercy, compassion, pity",
+    "usages": [
+      { "reference": "Matthew 5:7", "text": "Blessed are the merciful, for they will be shown mercy." },
+      { "reference": "Ephesians 2:4", "text": "But because of his great love for us, God, who is rich in mercy." },
+      { "reference": "Titus 3:5", "text": "he saved us through the washing of rebirth and renewal by the Holy Spirit." }
+    ],
+    "relatedWords": [
+      { "word": "merciful", "originalWord": "ἐλεήμων (eleēmōn)" },
+      { "word": "compassion", "originalWord": "σπλάγχνα (splagchna)" }
+    ]
+  },
+  {
+    "word": "forgiveness",
+    "originalWord": "ἄφεσις (aphesis)",
+    "definition": "forgiveness, pardon, release",
+    "usages": [
+      { "reference": "Matthew 6:14", "text": "For if you forgive other people when they sin against you, your heavenly Father will also forgive you." },
+      { "reference": "Ephesians 1:7", "text": "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God's grace." },
+      { "reference": "Colossians 3:13", "text": "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you." }
+    ],
+    "relatedWords": [
+      { "word": "forgive", "originalWord": "ἀφίημι (aphiēmi)" },
+      { "word": "pardon", "originalWord": "συγχωρέω (synchōreō)" }
+    ]
+  },
+  {
+    "word": "eternal",
+    "originalWord": "αἰώνιος (aiōnios)",
+    "definition": "eternal, everlasting, age-long",
+    "usages": [
+      { "reference": "John 3:16", "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life." },
+      { "reference": "Romans 6:23", "text": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord." },
+      { "reference": "1 John 5:13", "text": "I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life." }
+    ],
+    "relatedWords": [
+      { "word": "everlasting", "originalWord": "ἀΐδιος (aidios)" },
+      { "word": "forever", "originalWord": "εἰς τοὺς αἰῶνας (eis tous aiōnas)" }
+    ]
+  },
+  {
+    "word": "prayer",
+    "originalWord": "προσευχή (proseuchē)",
+    "definition": "prayer, supplication",
+    "usages": [
+      { "reference": "1 Thessalonians 5:17", "text": "pray continually." },
+      { "reference": "Philippians 4:6", "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God." },
+      { "reference": "James 5:16", "text": "Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective." }
+    ],
+    "relatedWords": [
+      { "word": "pray", "originalWord": "προσεύχομαι (proseuchomai)" },
+      { "word": "petition", "originalWord": "δέησις (deēsis)" }
+    ]
+  },
+  {
+    "word": "repentance",
+    "originalWord": "μετάνοια (metanoia)",
+    "definition": "repentance, change of mind, conversion",
+    "usages": [
+      { "reference": "Acts 3:19", "text": "Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord." },
+      { "reference": "2 Corinthians 7:10", "text": "Godly sorrow brings repentance that leads to salvation and leaves no regret, but worldly sorrow brings death." },
+      { "reference": "Luke 13:3", "text": "I tell you, no! But unless you repent, you too will all perish." }
+    ],
+    "relatedWords": [
+      { "word": "repent", "originalWord": "μετανοέω (metanoeō)" },
+      { "word": "turn", "originalWord": "ἐπιστρέφω (epistrephō)" }
+    ]
+  },
+  {
+    "word": "glory",
+    "originalWord": "δόξα (doxa)",
+    "definition": "glory, splendor, brightness; honor, praise",
+    "usages": [
+      { "reference": "Romans 3:23", "text": "for all have sinned and fall short of the glory of God." },
+      { "reference": "2 Corinthians 3:18", "text": "And we all, who with unveiled faces contemplate the Lord's glory, are being transformed into his image with ever-increasing glory." },
+      { "reference": "1 Peter 4:11", "text": "If anyone speaks, they should do so as one who speaks the very words of God. If anyone serves, they should do so with the strength God provides, so that in all things God may be praised through Jesus Christ. To him be the glory and the power for ever and ever. Amen." }
+    ],
+    "relatedWords": [
+      { "word": "glorify", "originalWord": "δοξάζω (doxazō)" },
+      { "word": "glorious", "originalWord": "ἔνδοξος (endoxos)" }
+    ]
+  },
+  {
+    "word": "holiness",
+    "originalWord": "ἁγιασμός (hagiasmos)",
+    "definition": "holiness, sanctification, consecration",
+    "usages": [
+      { "reference": "1 Peter 1:16", "text": "for it is written: 'Be holy, because I am holy.'" },
+      { "reference": "Hebrews 12:14", "text": "Make every effort to live in peace with everyone and to be holy; without holiness no one will see the Lord." },
+      { "reference": "1 Thessalonians 4:7", "text": "For God did not call us to be impure, but to live a holy life." }
+    ],
+    "relatedWords": [
+      { "word": "holy", "originalWord": "ἅγιος (hagios)" },
+      { "word": "sanctify", "originalWord": "ἁγιάζω (hagiazō)" }
+    ]
+  },
+  {
+    "word": "servant",
+    "originalWord": "δοῦλος (doulos)",
+    "definition": "servant, slave, bondservant",
+    "usages": [
+      { "reference": "Matthew 20:26", "text": "Not so with you. Instead, whoever wants to become great among you must be your servant." },
+      { "reference": "Romans 1:1", "text": "Paul, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God." },
+      { "reference": "Galatians 5:13", "text": "You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love." }
+    ],
+    "relatedWords": [
+      { "word": "serve", "originalWord": "δουλεύω (douleuō)" },
+      { "word": "service", "originalWord": "διακονία (diakonia)" }
+    ]
+  },
+  {
+    "word": "humility",
+    "originalWord": "ταπεινοφροσύνη (tapeinophrosynē)",
+    "definition": "humility, lowliness of mind",
+    "usages": [
+      { "reference": "Philippians 2:3", "text": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves." },
+      { "reference": "1 Peter 5:5", "text": "In the same way, you who are younger, submit yourselves to your elders. All of you, clothe yourselves with humility toward one another, because, 'God opposes the proud but shows favor to the humble.'" },
+      { "reference": "Colossians 3:12", "text": "Therefore, as God's chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience." }
+    ],
+    "relatedWords": [
+      { "word": "humble", "originalWord": "ταπεινός (tapeinos)" },
+      { "word": "lowly", "originalWord": "ταπεινόω (tapeinoō)" }
+    ]
+  },
+  {
+    "word": "obedience",
+    "originalWord": "ὑπακοή (hypakoē)",
+    "definition": "obedience, compliance, submission",
+    "usages": [
+      { "reference": "Romans 5:19", "text": "For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one man the many will be made righteous." },
+      { "reference": "2 Corinthians 10:5", "text": "We demolish arguments and every pretension that sets itself up against the knowledge of God, and we take captive every thought to make it obedient to Christ." },
+      { "reference": "1 Peter 1:14", "text": "As obedient children, do not conform to the evil desires you had when you lived in ignorance." }
+    ],
+    "relatedWords": [
+      { "word": "obey", "originalWord": "ὑπακούω (hypakouō)" },
+      { "word": "obedient", "originalWord": "ὑπήκοος (hypēkoos)" }
+    ]
+  },
+  {
+    "word": "patience",
+    "originalWord": "μακροθυμία (makrothymia)",
+    "definition": "patience, longsuffering, forbearance",
+    "usages": [
+      { "reference": "Galatians 5:22", "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness." },
+      { "reference": "2 Peter 3:9", "text": "The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance." },
+      { "reference": "James 1:4", "text": "Let perseverance finish its work so that you may be mature and complete, not lacking anything." }
+    ],
+    "relatedWords": [
+      { "word": "patient", "originalWord": "μακρόθυμος (makrothymos)" },
+      { "word": "endurance", "originalWord": "ὑπομονή (hypomonē)" }
+    ]
+  },
+  {
+    "word": "compassion",
+    "originalWord": "σπλάγχνα (splagchna)",
+    "definition": "compassion, tender mercy, heart",
+    "usages": [
+      { "reference": "Colossians 3:12", "text": "Therefore, as God's chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience." },
+      { "reference": "Matthew 9:36", "text": "When he saw the crowds, he had compassion on them, because they were harassed and helpless, like sheep without a shepherd." },
+      { "reference": "1 John 3:17", "text": "If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can the love of God be in that person?" }
+    ],
+    "relatedWords": [
+      { "word": "merciful", "originalWord": "ἐλεήμων (eleēmōn)" },
+      { "word": "tender", "originalWord": "εὔσπλαγχνος (eusplagchnos)" }
+    ]
+  },
+  {
+    "word": "testimony",
+    "originalWord": "μαρτυρία (martyria)",
+    "definition": "testimony, witness, evidence",
+    "usages": [
+      { "reference": "1 John 5:11", "text": "And this is the testimony: God has given us eternal life, and this life is in his Son." },
+      { "reference": "Acts 1:8", "text": "But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth." },
+      { "reference": "Revelation 12:11", "text": "They triumphed over him by the blood of the Lamb and by the word of their testimony; they did not love their lives so much as to shrink from death." }
+    ],
+    "relatedWords": [
+      { "word": "witness", "originalWord": "μάρτυς (martys)" },
+      { "word": "testify", "originalWord": "μαρτυρέω (martyreō)" }
+    ]
+  },
+  {
+    "word": "blessing",
+    "originalWord": "εὐλογία (eulogia)",
+    "definition": "blessing, praise, benefit",
+    "usages": [
+      { "reference": "Ephesians 1:3", "text": "Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ." },
+      { "reference": "Matthew 5:3", "text": "Blessed are the poor in spirit, for theirs is the kingdom of heaven." },
+      { "reference": "James 1:17", "text": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows." }
+    ],
+    "relatedWords": [
+      { "word": "bless", "originalWord": "εὐλογέω (eulogeō)" },
+      { "word": "blessed", "originalWord": "μακάριος (makarios)" }
+    ]
+  },
+  {
+    "word": "strength",
+    "originalWord": "δύναμις (dynamis)",
+    "definition": "power, strength, ability, miracle",
+    "usages": [
+      { "reference": "Philippians 4:13", "text": "I can do all this through him who gives me strength." },
+      { "reference": "2 Corinthians 12:9", "text": "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'" },
+      { "reference": "Isaiah 40:31", "text": "but those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint." }
+    ],
+    "relatedWords": [
+      { "word": "power", "originalWord": "ἐξουσία (exousia)" },
+      { "word": "mighty", "originalWord": "δυνατός (dynatos)" }
+    ]
+  },
+  {
+    "word": "resurrection",
+    "originalWord": "ἀνάστασις (anastasis)",
+    "definition": "resurrection, rising up",
+    "usages": [
+      { "reference": "Romans 6:5", "text": "For if we have been united with him in a death like his, we will certainly also be united with him in a resurrection like his." },
+      { "reference": "1 Corinthians 15:21", "text": "For since death came through a man, the resurrection of the dead comes also through a man." },
+      { "reference": "John 11:25", "text": "Jesus said to her, 'I am the resurrection and the life. The one who believes in me will live, even though they die.'" }
+    ],
+    "relatedWords": [
+      { "word": "rise", "originalWord": "ἀνίστημι (anistēmi)" },
+      { "word": "raise", "originalWord": "ἐγείρω (egeirō)" }
+    ]
+  },
+  {
+    "word": "kingdom",
+    "originalWord": "βασιλεία (basileia)",
+    "definition": "kingdom, reign, royal power",
+    "usages": [
+      { "reference": "Matthew 6:33", "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well." },
+      { "reference": "John 18:36", "text": "Jesus said, 'My kingdom is not of this world. If it were, my servants would fight to prevent my arrest by the Jewish leaders. But now my kingdom is from another place.'" },
+      { "reference": "Colossians 1:13", "text": "For he has rescued us from the dominion of darkness and brought us into the kingdom of the Son he loves." }
+    ],
+    "relatedWords": [
+      { "word": "king", "originalWord": "βασιλεύς (basileus)" },
+      { "word": "reign", "originalWord": "βασιλεύω (basileuō)" }
+    ]
+  },
+  {
+    "word": "discipleship",
+    "originalWord": "μαθητής (mathētēs)",
+    "definition": "disciple, learner, follower",
+    "usages": [
+      { "reference": "Luke 14:27", "text": "And whoever does not carry their cross and follow me cannot be my disciple." },
+      { "reference": "Matthew 28:19", "text": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit." },
+      { "reference": "John 13:35", "text": "By this everyone will know that you are my disciples, if you love one another." }
+    ],
+    "relatedWords": [
+      { "word": "follow", "originalWord": "ἀκολουθέω (akoloutheō)" },
+      { "word": "learn", "originalWord": "μανθάνω (manthanō)" }
+    ]
+  },
+  {
+    "word": "redemption",
+    "originalWord": "ἀπολύτρωσις (apolytrōsis)",
+    "definition": "redemption, deliverance, liberation",
+    "usages": [
+      { "reference": "Ephesians 1:7", "text": "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God's grace." },
+      { "reference": "Romans 3:24", "text": "and all are justified freely by his grace through the redemption that came by Christ Jesus." },
+      { "reference": "Hebrews 9:12", "text": "He did not enter by means of the blood of goats and calves; but he entered the Most Holy Place once for all by his own blood, thus obtaining eternal redemption." }
+    ],
+    "relatedWords": [
+      { "word": "redeem", "originalWord": "λυτρόω (lytroō)" },
+      { "word": "ransom", "originalWord": "λύτρον (lytron)" }
+    ]
+  },
+  {
+    "word": "covenant",
+    "originalWord": "διαθήκη (diathēkē)",
+    "definition": "covenant, testament, will",
+    "usages": [
+      { "reference": "Hebrews 8:6", "text": "But in fact the ministry Jesus has received is as superior to theirs as the covenant of which he is mediator is superior to the old one, since the new covenant is established on better promises." },
+      { "reference": "Luke 22:20", "text": "In the same way, after the supper he took the cup, saying, 'This cup is the new covenant in my blood, which is poured out for you.'" },
+      { "reference": "2 Corinthians 3:6", "text": "He has made us competent as ministers of a new covenant—not of the letter but of the Spirit; for the letter kills, but the Spirit gives life." }
+    ],
+    "relatedWords": [
+      { "word": "promise", "originalWord": "ἐπαγγελία (epangelia)" },
+      { "word": "testament", "originalWord": "διαθήκη (diathēkē)" }
+    ]
+  },
+  {
+    "word": "unity",
+    "originalWord": "ἑνότης (henotēs)",
+    "definition": "unity, oneness",
+    "usages": [
+      { "reference": "Ephesians 4:3", "text": "Make every effort to keep the unity of the Spirit through the bond of peace." },
+      { "reference": "John 17:21", "text": "that all of them may be one, Father, just as you are in me and I am in you. May they also be in us so that the world may believe that you have sent me." },
+      { "reference": "1 Corinthians 12:12", "text": "Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ." }
+    ],
+    "relatedWords": [
+      { "word": "one", "originalWord": "εἷς (heis)" },
+      { "word": "together", "originalWord": "ὁμοῦ (homou)" }
+    ]
+  },
+  {
+    "word": "fellowship",
+    "originalWord": "κοινωνία (koinōnia)",
+    "definition": "fellowship, communion, sharing, partnership",
+    "usages": [
+      { "reference": "1 John 1:3", "text": "We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ." },
+      { "reference": "Acts 2:42", "text": "They devoted themselves to the apostles' teaching and to fellowship, to the breaking of bread and to prayer." },
+      { "reference": "Philippians 2:1", "text": "Therefore if you have any encouragement from being united with Christ, if any comfort from his love, if any common sharing in the Spirit, if any tenderness and compassion." }
+    ],
+    "relatedWords": [
+      { "word": "share", "originalWord": "κοινός (koinos)" },
+      { "word": "partnership", "originalWord": "κοινωνός (koinōnos)" }
+    ]
+  },
+  {
+    "word": "perseverance",
+    "originalWord": "ὑπομονή (hypomonē)",
+    "definition": "perseverance, endurance, steadfastness",
+    "usages": [
+      { "reference": "Romans 5:3-4", "text": "Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope." },
+      { "reference": "James 1:12", "text": "Blessed is the one who perseveres under trial because, having stood the test, that person will receive the crown of life that the Lord has promised to those who love him." },
+      { "reference": "Hebrews 12:1", "text": "Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us." }
+    ],
+    "relatedWords": [
+      { "word": "endure", "originalWord": "ὑπομένω (hypomenō)" },
+      { "word": "steadfast", "originalWord": "στερεός (stereos)" }
+    ]
+  },
+  {
+    "word": "worship",
+    "originalWord": "προσκυνέω (proskyneō)",
+    "definition": "worship, bow down, pay homage",
+    "usages": [
+      { "reference": "John 4:24", "text": "God is spirit, and his worshipers must worship in the Spirit and in truth." },
+      { "reference": "Romans 12:1", "text": "Therefore, I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship." },
+      { "reference": "Revelation 4:11", "text": "You are worthy, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they were created and have their being." }
+    ],
+    "relatedWords": [
+      { "word": "adore", "originalWord": "σέβομαι (sebomai)" },
+      { "word": "reverence", "originalWord": "εὐλάβεια (eulabeia)" }
+    ]
+  },
+  {
+    "word": "stewardship",
+    "originalWord": "οἰκονομία (oikonomia)",
+    "definition": "stewardship, administration, management",
+    "usages": [
+      { "reference": "1 Corinthians 4:2", "text": "Now it is required that those who have been given a trust must prove faithful." },
+      { "reference": "1 Peter 4:10", "text": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace in its various forms." },
+      { "reference": "Luke 16:2", "text": "So he called him in and asked him, 'What is this I hear about you? Give an account of your management, because you cannot be manager any longer.'" }
+    ],
+    "relatedWords": [
+      { "word": "steward", "originalWord": "οἰκονόμος (oikonomos)" },
+      { "word": "manage", "originalWord": "οἰκονομέω (oikonomeō)" }
+    ]
+  },
+  {
+    "word": "transformation",
+    "originalWord": "μεταμόρφωσις (metamorphōsis)",
+    "definition": "transformation, transfiguration, change",
+    "usages": [
+      { "reference": "Romans 12:2", "text": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is—his good, pleasing and perfect will." },
+      { "reference": "2 Corinthians 3:18", "text": "And we all, who with unveiled faces contemplate the Lord's glory, are being transformed into his image with ever-increasing glory, which comes from the Lord, who is the Spirit." },
+      { "reference": "Philippians 3:21", "text": "who, by the power that enables him to bring everything under his control, will transform our lowly bodies so that they will be like his glorious body." }
+    ],
+    "relatedWords": [
+      { "word": "transform", "originalWord": "μεταμορφόω (metamorphoō)" },
+      { "word": "renew", "originalWord": "ἀνακαινόω (anakainoō)" }
+    ]
+  },
+  {
+    "word": "reconciliation",
+    "originalWord": "καταλλαγή (katallagē)",
+    "definition": "reconciliation, restoration of relationship",
+    "usages": [
+      { "reference": "2 Corinthians 5:18", "text": "All this is from God, who reconciled us to himself through Christ and gave us the ministry of reconciliation." },
+      { "reference": "Romans 5:11", "text": "Not only is this so, but we also boast in God through our Lord Jesus Christ, through whom we have now received reconciliation." },
+      { "reference": "Colossians 1:20", "text": "and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross." }
+    ],
+    "relatedWords": [
+      { "word": "reconcile", "originalWord": "καταλλάσσω (katallassō)" },
+      { "word": "restore", "originalWord": "ἀποκαθίστημι (apokathistēmi)" }
+    ]
+  },
+  {
+    "word": "justification",
+    "originalWord": "δικαίωσις (dikaiōsis)",
+    "definition": "justification, vindication, acquittal",
+    "usages": [
+      { "reference": "Romans 5:18", "text": "Consequently, just as one trespass resulted in condemnation for all people, so also one righteous act resulted in justification and life for all people." },
+      { "reference": "Romans 4:25", "text": "He was delivered over to death for our sins and was raised to life for our justification." },
+      { "reference": "Galatians 2:16", "text": "know that a person is not justified by the works of the law, but by faith in Jesus Christ. So we, too, have put our faith in Christ Jesus that we may be justified by faith in Christ and not by the works of the law, because by the works of the law no one will be justified." }
+    ],
+    "relatedWords": [
+      { "word": "justify", "originalWord": "δικαιόω (dikaioō)" },
+      { "word": "acquit", "originalWord": "ἀθῷος (athōos)" }
+    ]
+  },
+  {
+    "word": "sanctification",
+    "originalWord": "ἁγιασμός (hagiasmos)",
+    "definition": "sanctification, holiness, consecration",
+    "usages": [
+      { "reference": "1 Thessalonians 4:3", "text": "It is God's will that you should be sanctified: that you should avoid sexual immorality." },
+      { "reference": "2 Thessalonians 2:13", "text": "But we ought always to thank God for you, brothers and sisters loved by the Lord, because God chose you as firstfruits to be saved through the sanctifying work of the Spirit and through belief in the truth." },
+      { "reference": "Hebrews 12:14", "text": "Make every effort to live in peace with everyone and to be holy; without holiness no one will see the Lord." }
+    ],
+    "relatedWords": [
+      { "word": "sanctify", "originalWord": "ἁγιάζω (hagiazō)" },
+      { "word": "consecrate", "originalWord": "καθιερόω (kathieroō)" }
+    ]
+  },
+  {
+    "word": "regeneration",
+    "originalWord": "παλιγγενεσία (palingenesia)",
+    "definition": "regeneration, rebirth, renewal",
+    "usages": [
+      { "reference": "Titus 3:5", "text": "he saved us through the washing of rebirth and renewal by the Holy Spirit." },
+      { "reference": "John 3:3", "text": "Jesus replied, 'Very truly I tell you, no one can see the kingdom of God unless they are born again.'" },
+      { "reference": "2 Corinthians 5:17", "text": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!" }
+    ],
+    "relatedWords": [
+      { "word": "rebirth", "originalWord": "ἀναγέννησις (anagennēsis)" },
+      { "word": "renewal", "originalWord": "ἀνακαίνωσις (anakainōsis)" }
+    ]
+  },
+  {
+    "word": "adoption",
+    "originalWord": "υἱοθεσία (huiothesia)",
+    "definition": "adoption as sons, sonship",
+    "usages": [
+      { "reference": "Romans 8:15", "text": "The Spirit you received does not make you slaves, so that you live in fear again; rather, the Spirit you received brought about your adoption to sonship. And by him we cry, 'Abba, Father.'" },
+      { "reference": "Galatians 4:5", "text": "to redeem those under the law, that we might receive adoption to sonship." },
+      { "reference": "Ephesians 1:5", "text": "he predestined us for adoption to sonship through Jesus Christ, in accordance with his pleasure and will." }
+    ],
+    "relatedWords": [
+      { "word": "son", "originalWord": "υἱός (huios)" },
+      { "word": "heir", "originalWord": "κληρονόμος (klēronomos)" }
+    ]
+  },
+  {
+    "word": "providence",
+    "originalWord": "πρόνοια (pronoia)",
+    "definition": "providence, foresight, provision",
+    "usages": [
+      { "reference": "Romans 8:28", "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose." },
+      { "reference": "Matthew 6:26", "text": "Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?" },
+      { "reference": "Philippians 4:19", "text": "And my God will meet all your needs according to the riches of his glory in Christ Jesus." }
+    ],
+    "relatedWords": [
+      { "word": "provide", "originalWord": "προνοέω (pronoeō)" },
+      { "word": "care", "originalWord": "μέριμνα (merimna)" }
+    ]
+  },
+  {
+    "word": "spiritual",
+    "originalWord": "πνευματικός (pneumatikos)",
+    "definition": "spiritual, relating to the spirit",
+    "usages": [
+      { "reference": "1 Corinthians 2:14", "text": "The person without the Spirit does not accept the things that come from the Spirit of God but considers them foolishness, and cannot understand them because they are discerned only through the Spirit." },
+      { "reference": "Galatians 6:1", "text": "Brothers and sisters, if someone is caught in a sin, you who live by the Spirit should restore that person gently. But watch yourselves, or you also may be tempted." },
+      { "reference": "Ephesians 1:3", "text": "Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ." }
+    ],
+    "relatedWords": [
+      { "word": "spirit", "originalWord": "πνεῦμα (pneuma)" },
+      { "word": "flesh", "originalWord": "σάρξ (sarx)" }
+    ]
+  },
+  {
+    "word": "temptation",
+    "originalWord": "πειρασμός (peirasmos)",
+    "definition": "temptation, trial, testing",
+    "usages": [
+      { "reference": "1 Corinthians 10:13", "text": "No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it." },
+      { "reference": "James 1:13", "text": "When tempted, no one should say, 'God is tempting me.' For God cannot be tempted by evil, nor does he tempt anyone." },
+      { "reference": "Matthew 6:13", "text": "And lead us not into temptation, but deliver us from the evil one." }
+    ],
+    "relatedWords": [
+      { "word": "tempt", "originalWord": "πειράζω (peirazō)" },
+      { "word": "test", "originalWord": "δοκιμάζω (dokimazō)" }
+    ]
+  },
+  {
+    "word": "victory",
+    "originalWord": "νῖκος (nikos)",
+    "definition": "victory, conquest, triumph",
+    "usages": [
+      { "reference": "1 Corinthians 15:57", "text": "But thanks be to God! He gives us the victory through our Lord Jesus Christ." },
+      { "reference": "1 John 5:4", "text": "for everyone born of God overcomes the world. This is the victory that has overcome the world, even our faith." },
+      { "reference": "Romans 8:37", "text": "No, in all these things we are more than conquerors through him who loved us." }
+    ],
+    "relatedWords": [
+      { "word": "overcome", "originalWord": "νικάω (nikaō)" },
+      { "word": "conquer", "originalWord": "ὑπερνικάω (hypernikaō)" }
+    ]
+  },
+  {
+    "word": "abundance",
+    "originalWord": "περισσεία (perisseia)",
+    "definition": "abundance, overflow, surplus",
+    "usages": [
+      { "reference": "John 10:10", "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it abundantly." },
+      { "reference": "2 Corinthians 8:2", "text": "In the midst of a very severe trial, their overflowing joy and their extreme poverty welled up in rich generosity." },
+      { "reference": "Ephesians 3:20", "text": "Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us." }
+    ],
+    "relatedWords": [
+      { "word": "overflow", "originalWord": "περισσεύω (perisseuō)" },
+      { "word": "abound", "originalWord": "πλεονάζω (pleonazō)" }
+    ]
+  },
+  {
+    "word": "contentment",
+    "originalWord": "αὐτάρκεια (autarkeia)",
+    "definition": "contentment, self-sufficiency, satisfaction",
+    "usages": [
+      { "reference": "Philippians 4:11", "text": "I am not saying this because I am in need, for I have learned to be content whatever the circumstances." },
+      { "reference": "1 Timothy 6:6", "text": "But godliness with contentment is great gain." },
+      { "reference": "Hebrews 13:5", "text": "Keep your lives free from the love of money and be content with what you have, because God has said, 'Never will I leave you; never will I forsake you.'" }
+    ],
+    "relatedWords": [
+      { "word": "satisfied", "originalWord": "ἀρκέω (arkeō)" },
+      { "word": "sufficient", "originalWord": "αὐτάρκης (autarkēs)" }
+    ]
+  },
+  {
+    "word": "inheritance",
+    "originalWord": "κληρονομία (klēronomia)",
+    "definition": "inheritance, heritage, possession",
+    "usages": [
+      { "reference": "1 Peter 1:4", "text": "and into an inheritance that can never perish, spoil or fade. This inheritance is kept in heaven for you." },
+      { "reference": "Ephesians 1:14", "text": "who is a deposit guaranteeing our inheritance until the redemption of those who are God's possession—to the praise of his glory." },
+      { "reference": "Colossians 3:24", "text": "since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving." }
+    ],
+    "relatedWords": [
+      { "word": "inherit", "originalWord": "κληρονομέω (klēronomeō)" },
+      { "word": "heir", "originalWord": "κληρονόμος (klēronomos)" }
+    ]
+  },
+  {
+    "word": "calling",
+    "originalWord": "κλῆσις (klēsis)",
+    "definition": "calling, invitation, vocation",
+    "usages": [
+      { "reference": "Ephesians 4:1", "text": "As a prisoner for the Lord, then, I urge you to live a life worthy of the calling you have received." },
+      { "reference": "2 Timothy 1:9", "text": "He has saved us and called us to a holy life—not because of anything we have done but because of his own purpose and grace." },
+      { "reference": "1 Corinthians 7:20", "text": "Each person should remain in the situation they were in when God called them." }
+    ],
+    "relatedWords": [
+      { "word": "call", "originalWord": "καλέω (kaleō)" },
+      { "word": "chosen", "originalWord": "ἐκλεκτός (eklektos)" }
+    ]
+  },
+  {
+    "word": "edification",
+    "originalWord": "οἰκοδομή (oikodomē)",
+    "definition": "edification, building up, encouragement",
+    "usages": [
+      { "reference": "1 Corinthians 14:26", "text": "What then shall we say, brothers and sisters? When you come together, each of you has a hymn, or a word of instruction, a revelation, a tongue or an interpretation. Everything must be done so that the church may be built up." },
+      { "reference": "Ephesians 4:12", "text": "to equip his people for works of service, so that the body of Christ may be built up." },
+      { "reference": "Romans 14:19", "text": "Let us therefore make every effort to do what leads to peace and to mutual edification." }
+    ],
+    "relatedWords": [
+      { "word": "build", "originalWord": "οἰκοδομέω (oikodomeō)" },
+      { "word": "encourage", "originalWord": "παρακαλέω (parakaleō)" }
+    ]
+  }
+]

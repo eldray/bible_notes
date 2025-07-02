@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "date": "2025-06-11",
+    "title": "Trust in the Lord",
+    "content": "Today, reflect on God's faithfulness. Trust Him with your worries and fears, knowing He holds your future.",
+    "verse": {
+      "verseId": "PROV.3.5",
+      "reference": "Proverbs 3:5",
+      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
+      "version": "KJV"
+    }
+  },
+  {
+    "id": "2",
+    "date": "2025-06-12",
+    "title": "God's Love",
+    "content": "God's love is unending. Let His love fill your heart and guide your actions today.",
+    "verse": {
+      "verseId": "JOHN.3.16",
+      "reference": "John 3:16",
+      "text": "For God so loved the world...",
+      "version": "KJV"
+    }
+  }
+]
